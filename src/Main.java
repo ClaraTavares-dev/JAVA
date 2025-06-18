@@ -111,8 +111,6 @@ public class Main {
                
         }
 
-        System.out.println("\nSe direcione até o caixa para efetuar o pagamento!!");
-        System.out.println("OBRIGADO POR COMPRAR COM A LANCHONETE BOM JESUS!!");
         sc.close();
     }
 }
